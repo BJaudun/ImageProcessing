@@ -1,1 +1,1 @@
-Simple implementation in Pyhton of image processing methods
+Simple implementation in Python of image processing methods
